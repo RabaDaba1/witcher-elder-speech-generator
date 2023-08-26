@@ -40,7 +40,6 @@ aespar,to shoot
 aëte,summer
 aevon,river
 aep,of
-aep,up
 aép,in
 aép,to
 agwetheill,to open
@@ -263,8 +262,8 @@ luned,daughter
 luned,young girl
 marw,dies
 marw,die
-me,me
-me,my
+me,me, 
+me,my, 
 me,mine
 meáth,meet
 mid,middle
@@ -301,9 +300,12 @@ que,that
 que,what
 raenn,run
 rhena,queen
-rhenawedd,queen's daughter/son
-rhenawedd,princess/prince 
-rhon/rhoun,king
+rhenawedd,queen's daughter
+rhenawedd,queen's son
+rhenawedd,princess 
+rhenawedd,prince 
+rhon,king
+rhoun,king
 Roethainne,Redanian
 ruadhri,riders
 ruadhri,horsemen
