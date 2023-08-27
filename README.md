@@ -12,6 +12,6 @@ The model can generate sentences in Elder Speech that are somewhat grammatically
 
 | Generated text | Translation |
 |---|---|
-| Gwynbleidd ess y vatt'ghern ui aesledde aen an evall. | The white wolf is of witcher and rides on a horse. |
+| Gwynbleidd ess y vatt'ghern ui aesledde aen an evall. | The white wolf is of witcher and ride on a horse. |
 | Iade y twe tir ess an uniade y treise. |	Of two country is an merger of power. |
 | Av’caaren meath aen mid y pont an egweth. |	Meet as in the middle of a bridge. |
