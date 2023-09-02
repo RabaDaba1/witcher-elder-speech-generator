@@ -7,7 +7,7 @@ The model is a non-pretrained embedding layer and two-layer bidirectional LSTM w
 ## Dataset download
 If you would like to download only the data without the translations or sentences I published everything on [Kaggle](https://www.kaggle.com/datasets/kacperrabczewski/witcher-elder-speech?select=sentences.csv).
 
-## Model Output
+## Results
 The model can generate sentences in Elder Speech that are somewhat grammatically correct and meaningful. The sentences are sampled from the probability distribution of a softmax layer. Here are some examples of what the model can generate and their translations:
 
 | Generated text | Translation |
